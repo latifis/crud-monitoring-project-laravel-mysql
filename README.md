@@ -16,6 +16,7 @@
       <li><a href="#database-migration">Database Migration</a></li>
     </ul>
   </li>
+  <li><a href="#features-screenshot">Features Screenshot</a></li>
   <li><a href="#features-roadmap">Features Roadmap</a></li>
   <li><a href="#authors">Authors</a></li>
 </ol>
@@ -66,6 +67,28 @@ php artisan serve
 ```
 php artisan migrate
 ```
+
+<p align="right">(<a href="#top">back to table of contents</a>)</p>
+
+## Features Screenshot
+
+ - Home Project
+ ![alt text](https://github.com/latifis/crud-monitoring-project-laravel-mysql/blob/main/resource/home.png?raw=true)
+
+- Create Project
+ ![alt text](https://github.com/latifis/crud-monitoring-project-laravel-mysql/blob/main/resource/create.png?raw=true)
+
+ - Create Project Form Null
+ ![alt text](https://github.com/latifis/crud-monitoring-project-laravel-mysql/blob/main/resource/createnull.png?raw=true)
+
+- Update Project
+ ![alt text](https://github.com/latifis/crud-monitoring-project-laravel-mysql/blob/main/resource/update.png?raw=true)
+
+ - Delete Project
+ ![alt text](https://github.com/latifis/crud-monitoring-project-laravel-mysql/blob/main/resource/delete.png?raw=true)
+
+  - Delete Project Success
+ ![alt text](https://github.com/latifis/crud-monitoring-project-laravel-mysql/blob/main/resource/deletesuccess.png?raw=true)
 
 <p align="right">(<a href="#top">back to table of contents</a>)</p>
 
